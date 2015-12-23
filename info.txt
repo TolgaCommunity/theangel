@@ -16,9 +16,9 @@
 	"name"								""
 	"version"							""
 	"up_date"							""
-	"author_name"						""
-	"author_email"						""
-	"author_url"						""
+	"author_name"						"Alexisetoceane"
+	"author_email"						"oceaneetalexis@gmail.com"
+	"author_url"						"http://steamcommunity.com/id/Alexisetoceane/"
 	"info"								""
-	"override"							""
+	"override"							"1"
 }
