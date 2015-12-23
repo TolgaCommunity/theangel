@@ -14,7 +14,7 @@
 "AddonInfo"
 {
 	"name"								""
-	"version"							""
+	"version"							"1.0"
 	"up_date"							""
 	"author_name"						"Alexisetoceane"
 	"author_email"						"oceaneetalexis@gmail.com"
@@ -22,3 +22,11 @@
 	"info"								""
 	"override"							"1"
 }
+
+-----
+
+version :
+
+1.0 = Alpha 
+2.0 = Beta
+3.0 = OK
