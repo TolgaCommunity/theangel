@@ -20,7 +20,6 @@
 	"author_email"						"oceaneetalexis@gmail.com"
 	"author_url"						"http://steamcommunity.com/id/Alexisetoceane/"
 	"info"								""
-	"override"							"1"
 }
 
 -----
