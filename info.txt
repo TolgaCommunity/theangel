@@ -16,9 +16,6 @@
 	"name"								""
 	"version"							"1.0"
 	"up_date"							""
-	"author_name"						"Alexisetoceane"
-	"author_email"						"oceaneetalexis@gmail.com"
-	"author_url"						"http://steamcommunity.com/id/Alexisetoceane/"
 	"info"								""
 }
 
